@@ -16,3 +16,6 @@ mosquito
 mariposa
 escarabajo
 lombriz
+
+dragón k
+cocodrilo
